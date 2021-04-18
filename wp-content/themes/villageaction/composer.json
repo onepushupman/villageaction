@@ -1,0 +1,13 @@
+{
+    "name": "aaron/villageaction",
+    "description": "villageaction custom theme",
+    "type": "library",
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Aaron",
+            "email": "work@aaronsamuel.de"
+        }
+    ],
+    "require": {}
+}
