@@ -28,7 +28,7 @@
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'villageaction' ); ?></a>
 
 	<header id="masthead" class="site-header">
-		<div class="site-branding">
+		<div class="site-branding ">
 			<?php
 			the_custom_logo();
 			if ( is_front_page() && is_home() ) :
